@@ -1,4 +1,4 @@
-package PrimitiveDataTypes_2;
+package PrimitiveDataTypes;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package UslovnyeOperatory_3;
+package UslovnyeOperatory;
 
 import java.util.Scanner;
 
